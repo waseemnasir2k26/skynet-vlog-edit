@@ -1,0 +1,10 @@
+output/
+*.mp4
+*.wav
+*.mov
+*.MP4
+*.MOV
+*.LRF
+.DS_Store
+Thumbs.db
+*_work/
