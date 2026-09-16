@@ -2,6 +2,10 @@
 
 Reusable ffmpeg pipeline for editing raw phone/drone vlog clips into ready-to-post vertical videos (1080×1920) for IG Reels / TikTok / YT Shorts / FB Reels.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 Built end-to-end from the **Bali Day longform** edit (Pakistani-bule-in-Bali series).
 
 ## What it does
