@@ -1,0 +1,4 @@
+- skynet-vlog-edit is a public ffmpeg/bash pipeline that turns raw vertical phone or drone clips into 1080x1920 videos for Reels, TikTok, Shorts and FB Reels.
+- State: `build.sh` with four pipeline stages, three presets and one worked example config; a single initial commit (2026-05-09) plus the maintenance commit.
+- Reviewed October 2026: README, tree and history read; no pipeline, preset or example changes. The README contains no external links.
+- Known gaps: caption fonts default to Windows paths (`C:/Windows/Fonts/segoeui*.ttf`) with no fallback for other systems; not re-run against a current ffmpeg this month; no tests, CI or version manifest.
